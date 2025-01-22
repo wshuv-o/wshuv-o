@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wshuv-o&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wshuv-o&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wshuv-o&layout=compact&hide=jupyter%20notebook&theme=radical)
+
+## Connect with me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wshuvo)
+- [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/your-orcid-id)
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-username)
